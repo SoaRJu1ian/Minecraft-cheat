@@ -1,4 +1,5 @@
 
+![413004184-ea16ead9-13ea-4c37-b556-da4e738ee1c3](https://github.com/user-attachments/assets/0743d919-baa7-45b8-a3a3-30d70b2e26ef)
 🛠️ Key Features
 ⚔ 1. Combat Enhancements
 ✅ KillAura – Automatically attack nearby enemies
